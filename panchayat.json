@@ -2,16 +2,9 @@
   {
     "id": "ad74e9a009a77f7d",
     "username": "anon",
-    "password": "1",
+    "password": "123",
     "expiresAt": "2027-01-11",
-    "allowOffline": false 
-  },
-    {
-    "id": "0a99deff25d8daf",
-    "username": "anon",
-    "password": "12345",
-    "expiresAt": "2026-12-31",
-    "allowOffline": false
+    "allowOffline": true 
   },
   {
     "id": "android_device_id_2",
