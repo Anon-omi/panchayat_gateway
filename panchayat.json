@@ -40,5 +40,12 @@
     "password": "sohil@123",
     "expiresAt": "2026-01-14",
     "allowOffline": false
+  },
+  {
+    "id": "9624b441528e5a67",
+    "username": "Anil",
+    "password": "Anil@123",
+    "expiresAt": "2027-01-14",
+    "allowOffline": true
   }
 ]
