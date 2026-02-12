@@ -14,11 +14,11 @@
     "allowOffline": false
   },
   {
-    "id": "9d96a7adef595157",
+    "id": "715b174c7c0c6371",
     "username": "rahul",
     "password": "12345",
-    "expiresAt": "2026-02-09",
-    "allowOffline": false
+    "expiresAt": "2027-02-09",
+    "allowOffline": true
   },
   {
     "id": "f982aa1e897d130f",
