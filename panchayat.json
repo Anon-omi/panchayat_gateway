@@ -1,10 +1,10 @@
 [
   {
-    "id": "df65024e8d5b2fbb",
+    "id": "313758f7b1e6ffac",
     "username": "anon",
     "password": "123",
-    "expiresAt": "2027-03-21",
-    "allowOffline": true 
+    "expiresAt": "2026-04-04",
+    "allowOffline": false
   },
   {
     "id": "eb8b9155eface99f",
